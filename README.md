@@ -67,5 +67,3 @@ Testing
 Test cases for the ‘Post’ class are defined in ‘test_post.py’ using the ‘pytest’ framework.
 Execute tests with:
 pytest test_post.py
-
-
