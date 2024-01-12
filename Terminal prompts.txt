@@ -1,0 +1,10 @@
+These commands are designed to be executed in the terminal or command prompt from the directory where the Python files (main.py, db_handler.py, tasks.py, test_post.py) are located.
+
+Run Tests (python main.py spec):
+python main.py spec
+
+Check Style Offenses (python main.py rubocop):
+python main.py rubocop
+
+Run Default Task (python main.py):
+python main.py
